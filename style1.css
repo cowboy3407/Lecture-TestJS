@@ -28,6 +28,15 @@ body {
     font-family: "Roboto", serif;
 }
 
+.box {
+    width: 376px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
 .text1 {
     width: 376px;
     height: 112px;
